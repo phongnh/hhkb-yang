@@ -14,7 +14,7 @@
 
 Update Keymap:
 - [ydkb.io](http://ydkb.io)
-- [Current Keymap](https://ydkb.io/?hhkb_ble_s-1#H4sIAAAAAAAAA92UYW4iMQyFL/R+xHZsJ2dB3P8a+5xQhoWFqq20QlXATBjnxfkc+3Q6iUAiZCybyzZ0OAKJgQlOy0chBukQP+MkgfLlogltUIEq1KAd6tCAJnRAJ6zBhCtMYQbrMIcFLGEDNtG5maAruqF3dEcP9OSKPuAG53ttXCRNJ70mnME5PDD64IxeE9EQglCEcWV0BOMPRCIGYiIbUpCK5C7ijDEZJsPrkvVuICcXjoYhGIphVMdwDG5DDAPcajZMAYOYhtkxC8QMzMQkpwJVZ/Fiw6NKI46WRYTWl41lc9mxbOFLK8IFSYpyYS7OwjMTk9TZyUoIS0uttEqDauajyMlo/N+YBGtnypyot8b7pFEuWZzKhDwkUY5RUeFx7KTJTc7kLmX/WvWoeMnPS6+0y8OBOxbywi1X3K2QL9zFcI9VSCGdIELT5FJO0TW2D68UY+fdSn4qBfuC7cvJhf4hU+41X789cy5ZWzNnipxbeK/b7uTtBO4k7j35JfFCzNLxpeeshuTL0nJaZ9EMXSdeZyVD6jsrKLNqYbwieDeiswSk7WdutG6Vs/ZoK7N8zmdrXyt/6tHW7r68bm/9/8xCdZ/qOEf/wW33oUo6i+SD/u5Gj+z5+DX0VJ2fez3zaN9A/YD5aG6rldlucfv/tuxtA+w37U4uTa9sobhvinHV35r61yyPVso+tLXsafys2aKc18vx/St3ML9euy9q7WL5Mfkvxv1LPVbnfYtI3sWjiNiMOX+s9Js8zuc/qpbyV+YKAAA=)
+- [Current Keymap](https://ydkb.io/?hhkb_ble_s-1#H4sIAAAAAAAAA+WUUXJbMQhFN3Q/BAiQ1uLx/rfRi+Q+v8aJx5n0w52OMsSy4QodEJfLRQQSIWPZXLahwxFIDExwWz4KMUiH+BUXCZQvgya0QQWqUIN2qEMDmtABnbAGE0aYwgzWYQ4LWMIGbKLzMEFXdEPv6I4e6MmIPuAG5+/aGCRNJ70mnMk5PDD64I5eE9EQglCEMTI6gvkHIhEDMZENKUhF8hRx5phMk+l1yfptICcDR8MQDMUwqmM4Bo8hhgEeNRumgElMw+yYBWIGZmKSU4Gqu3ix4VWlEUfLIkLry8ayuexYtvClFeGCJEW5MBdn4Z2JSeruZCWEpaVWWqVBNfNR5GQ0fm8sgrUrZS7UW+t9yii3Kk5lQR6KKPdVWeFx7aLJqWbyoWSfRT0q3urz1Cvt9uGOOxbywi0H7lbIF+5iuNd6SCGdIELT5PacomtsH7YUc2dvJf+qBLvBdnMy0H/LlHvt1/+eOZesrZ2zRKvvq9fvnY9z31MlneXJwNZY72DocU+Coyjvmln9P55ROy2KrnpFZ+tL2+l67G5ynk1bFeXn/Cz+ufpLHm2d7sur8B+1/9/o/w327af0j8dyzLo12WxPvP19W/Y8D/tp+sltBpYtQh9nZBz6W1P/2OV9snIsbS378g58wkU/2ws3fbEWJx7f1LpX8Tv0D/LtC58f3+yf9FiD+C0yeRePNRvVm79FNu/icb3+Ak4WkKv1CgAA)
 
 
 ## Layout
@@ -31,7 +31,7 @@ Update Keymap:
 |--------------------------------------------------------------------------------------------------------|
 | SHIFT       |  Z   |  X   |  C   |  V   |  B   |  N   |  M   |  ,   |  .   |  /   | SHIFT|  UP  | DEL  |
 |--------------------------------------------------------------------------------------------------------|
-| `    ||| CTRL| ALT  | CMD  | LOWER|                 | RAISE| CMD  | ALT  |D(WIN)||| LEFT | DOWN | RIGHT|
+| `    ||| CTRL| ALT  | CMD  | LOWER|                 | RAISE| CMD  | ALT  |  WIN ||| LEFT | DOWN | RIGHT|
 `--------------------------------------------------------------------------------------------------------'
 ```
 
@@ -48,7 +48,7 @@ Update Keymap:
 |--------------------------------------------------------------------------------------------------------|
 | SHIFT       |  Z   |  X   |  C   |  V   |  B   |  N   |  M   |  ,   |  .   |  /   | SHIFT|  UP  | DEL  |
 |--------------------------------------------------------------------------------------------------------|
-| `    ||| CTRL| SUPER| ALT  | LOWER|                 | RAISE| ALT  | SUPER|D(MAC)||| LEFT | DOWN | RIGHT|
+| `    ||| CTRL| SUPER| ALT  | LOWER|                 | RAISE| ALT  | SUPER|  MAC ||| LEFT | DOWN | RIGHT|
 `--------------------------------------------------------------------------------------------------------'
 ```
 
@@ -57,15 +57,15 @@ Update Keymap:
 
 ```
 ,--------------------------------------------------------------------------------------------------------.
-|  ~   |   !  |  @   |  #   |  $   |  %   |  ^   |  &   |  *   |  (   |  )   |  _   |  +   |  |   |  DEL |
+| POWER|  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  |  F10 |  F11 |  F12 |  INS |  DEL |
 |--------------------------------------------------------------------------------------------------------|
 | CAPSLOCK|BT/USB|BTOFF | BAT% |      |      |      |HUBUSB|PRTSCR|SCRLK | PAUSE|  UP  |      |          |
 |-----------------------------------------------------------------------------------------------, ENTER  |
-|           | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT| INS  |        |
+|           | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT|      |        |
 |--------------------------------------------------------------------------------------------------------|
 |             |LCKMOD|WINLCK|BTNEXT|      |RESET |  +   |  -   | END  | PGDN | DOWN | BRI- | STOP | BRI+ |
 |--------------------------------------------------------------------------------------------------------|
-|      |||     |      |      |      |                 | MENU |      |      |      ||| PREV | PLAY | NEXT |
+| WAKE |||     |      |      |      |                 | MENU |      |      |      ||| PREV | PLAY | NEXT |
 `--------------------------------------------------------------------------------------------------------'
 ```
 
@@ -78,11 +78,11 @@ Update Keymap:
 |--------------------------------------------------------------------------------------------------------|
 | CAPSLOCK|BT/USB|BTOFF | BAT% |      |      |      |HUBUSB|PRTSCR|SCRLK | PAUSE|  UP  |      |          |
 |-----------------------------------------------------------------------------------------------, ENTER  |
-|           | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT| INS  |        |
+|           | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT|      |        |
 |--------------------------------------------------------------------------------------------------------|
-|             |LCKMOD|WINLCK|BTNEXT|      |RESET |  +   |  -   | END  | PGDN | DOWN |      |      |      |
+|             |LCKMOD|WINLCK|BTNEXT|      |RESET |  +   |  -   | END  | PGDN | DOWN | BRI- | STOP | BRI+ |
 |--------------------------------------------------------------------------------------------------------|
-| WAKE |||     |      |      | MENU |                 |      |      |      |      |||      |      |      |
+| WAKE |||     |      |      | MENU |                 |      |      |      |      ||| PREV | PLAY | NEXT |
 `--------------------------------------------------------------------------------------------------------'
 ```
 

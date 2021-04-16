@@ -3,7 +3,7 @@
 | Function                         | Hotkey                            |
 | -------------------------------- | --------------------------------- |
 | Bluetooth connection status      | LShift + RShift + S               |
-| Turn off Bluetooth               | LShift + RShift + W               |
+| Toggle Bluetooth                 | LShift + RShift + W               |
 | Clear paired devices             | LShift + RShift + R               |
 | Discoverable Mode ON             | LShift + RShift + I               |
 | Discoverable Mode OFF            | LShift + RShift + O               |

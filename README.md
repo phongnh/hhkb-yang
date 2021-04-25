@@ -4,7 +4,7 @@
 | -------------------------------- | --------------------------------- |
 | Bluetooth connection status      | LShift + RShift + S               |
 | Toggle Bluetooth                 | LShift + RShift + W               |
-| Clear paired devices             | LShift + RShift + R               |
+| Clear paired devices             | LShift + RShift + LCtrl + R       |
 | Discoverable Mode ON             | LShift + RShift + I               |
 | Discoverable Mode OFF            | LShift + RShift + O               |
 | Switch between Bluetooth and USB | LShift + RShift + U               |

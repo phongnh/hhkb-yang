@@ -14,7 +14,7 @@
 
 Update Keymap:
 - [ydkb.io](http://ydkb.io)
-- [Current Keymap](https://ydkb.io/?hhkb_ble_s-1#H4sIAAAAAAAAA+WUUXJbMQhFN3Q/BAiQ1uLx/rfRi+Q+v8aJx5n0w52OMsSy4QodEJfLRQQSIWPZXLahwxFIDExwWz4KMUiH+BUXCZQvgya0QQWqUIN2qEMDmtABnbAGE0aYwgzWYQ4LWMIGbKLzMEFXdEPv6I4e6MmIPuAG5+/aGCRNJ70mnMk5PDD64I5eE9EQglCEMTI6gvkHIhEDMZENKUhF8hRx5phMk+l1yfptICcDR8MQDMUwqmM4Bo8hhgEeNRumgElMw+yYBWIGZmKSU4Gqu3ix4VWlEUfLIkLry8ayuexYtvClFeGCJEW5MBdn4Z2JSeruZCWEpaVWWqVBNfNR5GQ0fm8sgrUrZS7UW+t9yii3Kk5lQR6KKPdVWeFx7aLJqWbyoWSfRT0q3urz1Cvt9uGOOxbywi0H7lbIF+5iuNd6SCGdIELT5PacomtsH7YUc2dvJf+qBLvBdnMy0H/LlHvt1/+eOZesrZ2zRKvvq9fvnY9z31MlneXJwNZY72DocU+Coyjvmln9P55ROy2KrnpFZ+tL2+l67G5ynk1bFeXn/Cz+ufpLHm2d7sur8B+1/9/o/w327af0j8dyzLo12WxPvP19W/Y8D/tp+sltBpYtQh9nZBz6W1P/2OV9snIsbS378g58wkU/2ws3fbEWJx7f1LpX8Tv0D/LtC58f3+yf9FiD+C0yeRePNRvVm79FNu/icb3+Ak4WkKv1CgAAhttps://ydkb.io/?hhkb_ble_s-1#H4sIAAAAAAAAA+WUUXJbMQhFN3Q/BAiQ1uLx/rfRi+Q+v8aJx5n0w52OMsSy4QodEJfLRQQSIWPZXLahwxFIDExwWz4KMUiH+BUXCZQvgya0QQWqUIN2qEMDmtABnbAGE0aYwgzWYQ4LWMIGbKLzMEFXdEPv6I4e6MmIPuAG5+/aGCRNJ70mnMk5PDD64I5eE9EQglCEMTI6gvkHIhEDMZENKUhF8hRx5phMk+l1yfptICcDR8MQDMUwqmM4Bo8hhgEeNRumgElMw+yYBWIGZmKSU4Gqu3ix4VWlEUfLIkLry8ayuexYtvClFeGCJEW5MBdn4Z2JSeruZCWEpaVWWqVBNfNR5GQ0fm8sgrUrZS7UW+t9yii3Kk5lQR6KKPdVWeFx7aLJqWbyoWSfRT0q3urz1Cvt9uGOOxbywi0H7lbIF+5iuNd6SCGdIELT5PacomtsH7YUc2dvJf+qBLvBdnMy0H/LlHvt1/+eOZesrZ2zRKvvq9fvnY9z31MlneXJwNZY72DocU+Coyjvmln9P55ROy2KrnpFZ+tL2+l67G5ynk1bFeXn/Cz+ufpLHm2d7sur8B+1/9/o/w327af0j8dyzLo12WxPvP19W/Y8D/tp+sltBpYtQh9nZBz6W1P/2OV9snIsbS378g58wkU/2ws3fbEWJx7f1LpX8Tv0D/LtC58f3+yf9FiD+C0yeRePNRvVm79FNu/icb3+Ak4WkKv1CgAA)
+- [Current Keymap](https://ydkb.io/?hhkb_ble_s-1#H4sIAAAAAAAAA+WUXXIiMQyEL9QP1o8l+ywU97/GtjzATMImBUUe2E2ZEuMZuS19kn06nUQgETKWzWUbHB2BxMAEp+WjEIM4pJ9xkkD5ctGENqhAFWpQh3ZoQBM6oBPWYMIVpjCDOazDApawAZtwbiZwhRvc4R0e8OQKH+iGzu/auEiaTnpNdAbX0QPDB2f0moiGEIQijCvDEYw/EIkYiIlsSEEqkrtIZ4zJMBmeS9a3gZxcOBqGYCiGUR2jY3AbYhjgVrNhChjENEzHLBAzMBOTnApU5dKLDVOVRhwtiwhtXzaWzWXHsoUvrQgXJCnKhbk4C3MmJqncyUoIS0uttEqDatZHkZPR+N5YBGtnypyot8b7lFEuVZzKgtwVUfZRUeF+bEWTQ83kU8n+tupe8VKfb73SLg877ljIC7fccLdCvnBf/bdzFOLkEJoml9MUruzE8mBHMXS2VvJXFdj6a+tNLuxXmXKv+fr3zLlkbc06K7Tavlp9b3wc254q2VmdDGwa6xgMvaVJbhRlqpnV/uM7aIdB0VWucHa+tC3cHlszde5NWwXlcz5Ykmc92tq9L6+i77+V/k+wb6/Sl+tW+123bjbbbrztfVv2eB/64faTyx1YthB9viPjpr9p6odZ7jer+fbF7MskeIQLf7YHUn2wGAcgT2rtZXwG/w19+8Ln5cz+SY/VjG8Rybt4FBH10e1lpf/J43z+A4p50pH1CgAA)
 
 
 ## Layout
@@ -59,9 +59,9 @@ Update Keymap:
 ,--------------------------------------------------------------------------------------------------------.
 | POWER|  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  |  F10 |  F11 |  F12 |  INS |  DEL |
 |--------------------------------------------------------------------------------------------------------|
-| CAPSLOCK|BT/USB|BTOFF | BAT% |      |      |      |HUBUSB|PRTSCR|SCRLK | PAUSE|  UP  |      |          |
+| CAPSLOCK|BT/USB|BTOFF | BAT% |CLRBT | DOFF | DON  |HUBUSB|PRTSCR|SCRLK | PAUSE|  UP  |      |          |
 |-----------------------------------------------------------------------------------------------, ENTER  |
-|           | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT|      |        |
+| LCTRL     | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT|      |        |
 |--------------------------------------------------------------------------------------------------------|
 |             |LCKMOD|WINLCK|BTNEXT|      |RESET |  +   |  -   | END  | PGDN | DOWN | BRI- | STOP | BRI+ |
 |--------------------------------------------------------------------------------------------------------|
@@ -76,9 +76,9 @@ Update Keymap:
 ,--------------------------------------------------------------------------------------------------------.
 | POWER|  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  |  F10 |  F11 |  F12 |  INS |  DEL |
 |--------------------------------------------------------------------------------------------------------|
-| CAPSLOCK|BT/USB|BTOFF | BAT% |      |      |      |HUBUSB|PRTSCR|SCRLK | PAUSE|  UP  |      |          |
+| CAPSLOCK|BT/USB|BTOFF | BAT% |CLRBT | DOFF | DON  |HUBUSB|PRTSCR|SCRLK | PAUSE|  UP  |      |          |
 |-----------------------------------------------------------------------------------------------, ENTER  |
-|           | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT|      |        |
+| LCTRL     | VOL- | VOL+ | MUTE |      |      |  *   |  /   | HOME | PGUP | LEFT | RIGHT|      |        |
 |--------------------------------------------------------------------------------------------------------|
 |             |LCKMOD|WINLCK|BTNEXT|      |RESET |  +   |  -   | END  | PGDN | DOWN | BRI- | STOP | BRI+ |
 |--------------------------------------------------------------------------------------------------------|
